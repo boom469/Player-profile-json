@@ -1,0 +1,12 @@
+{
+  "player_id": "0",
+  "name": "George Coomes",
+  "clubs": [
+    { "team_id": "0", "name": "Hertford Town FC", , "appearances": 1, "goals": 0 , "assists": 0 , "clean sheets": 0 , "minutes": 90},
+{ "team_id": "1", "name": "Dunstable Town FC", , "appearances": 1, "goals": 0 , "assists": 0 , "clean sheets": 0 , "minutes": 90},
+{ "team_id": "2", "name": "Letchworth Garden city Eagles", , "appearances": 13, "goals": 0 , "assists": 0 , "clean sheets": 2 , "minutes": 1080},
+{ "team_id": "2", "name": "Hertford Town U19", , "appearances": 13, "goals": 0 , "assists": 0 , "clean sheets": 2 , "minutes": 1080},
+
+  ]
+  
+}
